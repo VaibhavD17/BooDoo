@@ -16,6 +16,10 @@
         height: 80vh;
     }
 
+    .hero-data {
+        padding-top: 15rem;
+     }
+
     #services .sub-title {
         line-height: 7rem;
     }
@@ -133,6 +137,9 @@
     html {
         font-size: 43.75%;
     }
+    .hero-data {
+        padding-top: 20rem;
+     }
 
     .about-loopkad h3 {
         font-size: 4rem;
