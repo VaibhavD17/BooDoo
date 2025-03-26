@@ -247,7 +247,7 @@ header {
 .astrology-ditaile {
     padding-top: 10rem;
     justify-content: space-around;
-    row-gap: 15rem;
+    row-gap: 10rem;
 }
 
 .astro-data {
@@ -294,7 +294,7 @@ header {
 }
 
 .data-privacy {
-    margin-top: 17.2rem;
+    margin-top: 16rem;
     justify-content: space-between;
     row-gap: 5rem;
 }
@@ -306,7 +306,7 @@ header {
 .choose-img h2 {
     font-size: 3.2rem;
     color: white;
-    margin: 3rem 0;
+    margin: 2rem 0;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -349,7 +349,7 @@ header {
 .science-ditaile-2 {
     justify-content: flex-end;
     column-gap: 4rem;
-    margin-top: 10rem;
+    margin-top: 4rem;
     row-gap: 5rem;
 }
 
@@ -413,6 +413,7 @@ header {
     padding-top: 20rem;
     background: linear-gradient(180deg, #000000 36.84%, #C8191C 223.16%);
     padding-bottom: 20rem;
+
 }
 
 .appoint-detail {
@@ -421,12 +422,13 @@ header {
 }
 
 
-.appointment-title {
+/* .appointment-title {
     padding: 22.4rem 0;
-}
+} */
 
 .appoint-form form {
     justify-content: space-between;
+    padding-top: 5rem;
 }
 
 .appoint-form form input,
@@ -441,7 +443,7 @@ select {
 }
 
 .form-data {
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
     row-gap: 5rem;
 }
 
@@ -778,7 +780,7 @@ select {
 footer {
     padding-top: 20rem;
     background: linear-gradient(0deg, #000000 36.84%, #C8191C 223.16%);
-    padding-bottom: 20rem;
+    padding-bottom: 10rem;
 }
 
 footer .container {

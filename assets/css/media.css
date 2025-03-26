@@ -54,10 +54,12 @@
 
     .super-img h2 {
         font-size: 6rem;
+        margin-bottom: 4rem;
     }
 
     .team-bd h2 {
         font-size: 5rem;
+        margin-top: 5rem;
     }
 
     .science-data {
@@ -126,7 +128,7 @@
     }
 
     #happy-client .container>h2 {
-        font-size: 9rem;
+        font-size: 6rem;
     }
 
     .astrology-ditaile {
@@ -140,6 +142,49 @@
 
     #horoscope .sub-title {
         padding: 0 0.5rem;
+    }
+
+    #services {
+        padding-top: 10rem;
+        background: linear-gradient(0deg, #000000 36.84%, #C8191C 223.16%);
+    }
+    #choose-boodoo {
+        padding-top: 10rem;
+        background: linear-gradient(180deg, #000000 36.84%, #C8191C 223.16%);
+    }
+
+    #horoscope {
+        padding-top: 10rem;
+    }
+
+    .team-detail {
+        margin-top: 10rem;
+    }
+
+    #appointment {
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+        text-align: center;
+    }
+
+    #happy-client .container>img {
+        padding: 7rem;
+        margin-left: auto;
+        margin-right: auto;
+        height: 35rem;
+    }
+
+    .swiper-button-next:after, .swiper-button-prev:after {
+        font-size: 4rem;
+    }
+
+    #blog {
+        padding-top: 10rem;
+        text-align: center;
+    }
+
+    footer {
+        padding-top: 10rem;
     }
 }
 
@@ -230,6 +275,8 @@
         text-align: center;
         background: linear-gradient(0deg, #000000 36.84%, #C8191C 223.16%);
     }
+
+  
 }
 
 /* 768 - 991    1rem = 8px   md*/
@@ -350,6 +397,7 @@
 
     #about {
         padding-top: 20rem; 
+        text-align: left;
     }
 }
 
