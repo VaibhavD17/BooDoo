@@ -246,8 +246,8 @@
     }
 
     .hero-data h1 {
-        font-size: 11rem;
-        line-height: 16rem;
+        font-size: 9rem;
+        line-height: 10rem;
     }
 
     .client-details::before {
