@@ -41,12 +41,23 @@
         padding-left: 0;
     }
 
+    #super {
+        padding-top: 10rem;
+        text-align: center;
+    }
+
+    .super-img p {
+        font-size: 1.8rem;
+        color: white;
+        text-align: center;
+    }
+
     .super-img h2 {
-        font-size: 8rem;
+        font-size: 6rem;
     }
 
     .team-bd h2 {
-        font-size: 7rem;
+        font-size: 5rem;
     }
 
     .science-data {

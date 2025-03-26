@@ -203,7 +203,7 @@ header {
 }
 
 .super-details {
-    row-gap: 5rem;
+    row-gap: 3rem;
 }
 
 .super-img p {
@@ -214,7 +214,7 @@ header {
 
 .team-bd .team-member {
     padding-left: 8.8rem;
-    row-gap: 5rem;
+    row-gap: 3rem;
 }
 
 .team-bd h2 {
