@@ -124,7 +124,8 @@ header {
 /* ***************About************************** */
 
 #about {
-    padding-top: 20rem;
+    padding-top: 0rem;
+    text-align: center;
     background: linear-gradient(0deg, #000000 36.84%, #C8191C 223.16%);
 }
 
@@ -148,10 +149,12 @@ header {
 }
 
 
+
+
 .discover-boodoo {
-    padding-top: 20rem;
+    padding-top: 10rem;
     justify-content: space-between;
-    row-gap: 5rem;
+    row-gap: 2rem;
 }
 
 .disc-about {
@@ -176,10 +179,11 @@ header {
     max-width: 54.1rem;
 }
 
-.disc-about .sub-title {
-    margin: 3rem 0 12rem 0;
-}
 
+
+.disc-about .sub-title {
+    margin: 3rem 0 5rem 0;
+}
 
 /* *********************************************** */
 
