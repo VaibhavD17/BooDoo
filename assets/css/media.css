@@ -186,6 +186,10 @@
     footer {
         padding-top: 10rem;
     }
+
+    .happyData {
+        margin: 0 8rem;
+    }
 }
 
 /* 576 - 767    1rem = 7px    sm*/
