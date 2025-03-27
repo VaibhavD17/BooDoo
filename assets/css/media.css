@@ -190,6 +190,22 @@
     .happyData {
         margin: 0 8rem;
     }
+
+    .starter, .value, .premium {
+        padding: 6rem 4rem;
+    }
+
+    .team-member-img {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .team-member-img img{
+        width: 80%;
+        height: 100%;
+    }
+
 }
 
 /* 576 - 767    1rem = 7px    sm*/
